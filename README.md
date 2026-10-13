@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Voice-Controlled Wheelchair
 
 Design and development of a low-cost Bluetooth-based voice-controlled wheelchair using Arduino Uno, HC-05 Bluetooth communication, L293D motor driver, and DC motors for hands-free mobility.
@@ -157,3 +158,6 @@ Voice-Controlled-Wheelchair/
 ## License
 
 None.
+=======
+# Voice-Controlled-Wheelchair
+>>>>>>> 8b70a45a21f195880d0f6a9dca3e84cbc345d674
